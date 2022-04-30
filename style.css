@@ -1,0 +1,41 @@
+
+/* div {
+    margin: 3px;
+    border: 1px solid red;
+} */
+
+img {
+    max-height: 300px;
+    height: 100%;
+    width: 100%;
+}
+button {
+    border: none;
+    background: none;
+}
+
+textarea {
+    max-width: 900px;
+    width: 100%;
+}
+
+h5 {
+    font-size: 100%;
+}
+
+.like-icon {
+    width: 2vw;
+    height: fit-content;
+}
+
+.accordion {
+    display: flex;
+}
+
+p {
+    font-size: 1.5vw;
+}
+
+h5 {
+    font-size: 1.5vw;
+}
